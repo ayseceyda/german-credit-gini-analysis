@@ -1,5 +1,3 @@
-
-
 ### PROJECT ADDRESS ###
 
 https://rpubs.com/aycey/gini-calc
