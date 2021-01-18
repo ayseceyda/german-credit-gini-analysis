@@ -1,7 +1,8 @@
 # german-credit-gini-analysis
 
 Gini calculation on German credit dataset based on "glm".
-[Dataset:](https://www.kaggle.com/kabure/german-credit-data-with-risk)
+
+[click here for the dataset](https://www.kaggle.com/kabure/german-credit-data-with-risk)
 
 In this project, the goal is to compare Gini values with **MLmetrics** and **sqldf** libraries on R.
 
